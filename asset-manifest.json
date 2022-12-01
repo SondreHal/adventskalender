@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/adventskalender/static/css/main.57485aed.css",
+    "main.js": "/adventskalender/static/js/main.8329cd8a.js",
+    "static/media/Playful_Christmas.otf": "/adventskalender/static/media/Playful_Christmas.5a36acb89b31f4da9594.otf",
+    "index.html": "/adventskalender/index.html",
+    "main.57485aed.css.map": "/adventskalender/static/css/main.57485aed.css.map",
+    "main.8329cd8a.js.map": "/adventskalender/static/js/main.8329cd8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57485aed.css",
+    "static/js/main.8329cd8a.js"
+  ]
+}
